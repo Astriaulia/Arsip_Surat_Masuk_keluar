@@ -11,3 +11,9 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+# Firebase (tambahan penting)
+lib/firebase_options.dart
+android/app/google-services.json
+
+# Generated
+GeneratedPluginRegistrant.java
